@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://pafra88.github.io/annotazioni1/annotations/annotazione_analisi.json" ],
+  "@id" : "https://pafra88.github.io/annotazioni1/annotations/collection.json",
+  "label" : "All annotations loaded in pafra88/annotazioni1 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
